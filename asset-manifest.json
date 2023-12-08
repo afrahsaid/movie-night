@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/movie-night/static/css/main.8bd93a62.css",
+    "main.js": "/github.io/movie-night/static/js/main.e97ef7e1.js",
+    "index.html": "/github.io/movie-night/index.html",
+    "static/media/search.svg": "/github.io/movie-night/static/media/search.9c90502200a180e2c122d02b0424b6e7.svg",
+    "main.8bd93a62.css.map": "/github.io/movie-night/static/css/main.8bd93a62.css.map",
+    "main.e97ef7e1.js.map": "/github.io/movie-night/static/js/main.e97ef7e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bd93a62.css",
+    "static/js/main.e97ef7e1.js"
+  ]
+}
